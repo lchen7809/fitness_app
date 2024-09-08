@@ -3,7 +3,7 @@
 3. Ensure you have Python downloaded on your laptop/PC
 4. Open Visual Studio Code 
 5. Open two terminals (one for backend, one for running expo)
-6. On the first terminal, run the following commands:
+6. On the first terminal, run the following commands in order:
 
 `npm install` (run `npm install --legacy-peer-deps` if `npm install` doesnt work)
 
