@@ -1,0 +1,13 @@
+[
+    {
+      "_id": "64e3f8e5a9e2b2d16fc2c789",
+      "username": "user1",
+      "email": "user1@example.com",
+      "password": "hashed_password_1",
+      "preferences": {
+        "theme": "light"
+      },
+      "created_at": "2024-08-01T00:00:00.000Z"
+    }
+  ]
+  
